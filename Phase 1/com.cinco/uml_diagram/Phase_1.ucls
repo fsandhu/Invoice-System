@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.3" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="com.cinco.Customer" project="Cinco-Phase1" 
+    file="/Cinco-Phase1/src/com/cinco/Customer.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="369" y="364"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="com.cinco.GovernmentCustomer" project="Cinco-Phase1" 
+    file="/Cinco-Phase1/src/com/cinco/GovernmentCustomer.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="218" y="631"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="com.cinco.CompanyCustomer" project="Cinco-Phase1" 
+    file="/Cinco-Phase1/src/com/cinco/CompanyCustomer.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="530" y="631"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="com.cinco.Product" project="Cinco-Phase1" 
+    file="/Cinco-Phase1/src/com/cinco/Product.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1075" y="377"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="com.cinco.Consultation" project="Cinco-Phase1" 
+    file="/Cinco-Phase1/src/com/cinco/Consultation.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="847" y="642"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="com.cinco.Equipment" project="Cinco-Phase1" 
+    file="/Cinco-Phase1/src/com/cinco/Equipment.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1083" y="623"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="com.cinco.License" project="Cinco-Phase1" 
+    file="/Cinco-Phase1/src/com/cinco/License.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1307" y="650"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="com.cinco.Address" project="Cinco-Phase1" 
+    file="/Cinco-Phase1/src/com/cinco/Address.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="657" y="364"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="com.cinco.Person" project="Cinco-Phase1" 
+    file="/Cinco-Phase1/src/com/cinco/Person.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="843" y="156"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="com.cinco.Email" project="Cinco-Phase1" 
+    file="/Cinco-Phase1/src/com/cinco/Email.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1035" y="156"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="com.cinco.DataConverter" project="Cinco-Phase1" 
+    file="/Cinco-Phase1/src/com/cinco/DataConverter.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="107" width="138" x="102" y="72"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <generalization id="12">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="4"/>  
+  </generalization>  
+  <generalization id="13">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <association id="14">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="15" name="consultant">        
+        <position height="19" width="63" x="846" y="336"/>      
+      </attribute>      
+      <multiplicity id="16" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="17">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="4"/>  
+  </generalization>  
+  <association id="18">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="19" name="mailingAddress">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="20" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="21">    
+    <bendpoint x="610" y="156"/>    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="22" name="primaryContact">        
+        <position height="19" width="90" x="651" y="139"/>      
+      </attribute>      
+      <multiplicity id="23" minimum="0" maximum="1">        
+        <position height="17" width="26" x="686" y="159"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="24">    
+    <bendpoint x="783" y="362"/>    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="25" name="address">        
+        <position height="19" width="51" x="724" y="339"/>      
+      </attribute>      
+      <multiplicity id="26" minimum="0" maximum="1">        
+        <position height="17" width="26" x="737" y="367"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="27">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="28" name="emails">        
+        <position height="19" width="43" x="927" y="134"/>      
+      </attribute>      
+      <multiplicity id="29" minimum="0" maximum="2147483647">        
+        <position height="17" width="24" x="947" y="161"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="30">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <generalization id="31">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="4"/>  
+  </generalization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
