@@ -1,4 +1,6 @@
-CSCE 156 Project
+Project for CSCE 156
+
+This program was designed from scratch to build a invoice system for a company that sells various types of licenses, equipment, and consultations. Each product has a different tax rate and certain customers have discounts. Everything is saved in MySQL tables which is updated after every function call at any point. This program can also print a executive summary for company officials to take a look at the end of every business day.
 
 Collaborators:
 1) Fateh Karan Singh Sandhu (fsandhu)
